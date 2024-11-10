@@ -1,4 +1,4 @@
-# mini-projeto-fullstack
+# Gigga-Games
 
 ![poster gigga games](https://github.com/user-attachments/assets/2e6d3c0c-d754-486c-b6c1-dc29755684b0)
 
